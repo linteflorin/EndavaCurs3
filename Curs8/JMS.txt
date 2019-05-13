@@ -1,9 +1,9 @@
-shift click dreapta power shell
-active mq ^^
+ActiveMQ
 
-bin\actimeq start
+power shell-> shit click dreapta
 
-http://127.0.0.1:8161
+bin\activemq start
+
+
+http://127.0.0.1:8161/
 admin admin
-
-kafka -> sa ne interesam

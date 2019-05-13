@@ -1,0 +1,3 @@
+interfata crudrepository -> jparepository (clasa ce o mostenteste)
+
+JPQL-> java peristence query language
