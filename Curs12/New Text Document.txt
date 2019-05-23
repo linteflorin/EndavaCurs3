@@ -1,0 +1,5 @@
+Maven-> tool de build, pasii pe care i faci la build
+
+Tema:
+1)inlocuiti baza de date sql cu MongoDB
+2)Aplicatie care se conecteaza la o baza de date 
